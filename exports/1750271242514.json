@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750271242514,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_Register",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/UV_Register.tsx",
+      "type": "text",
+      "size": 9349,
+      "dependencies": false
+    }
+  ]
+}

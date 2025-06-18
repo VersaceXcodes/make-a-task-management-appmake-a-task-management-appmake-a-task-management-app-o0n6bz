@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750271464452,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_TaskCreationModal",
+      "version": "1750271464019"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/UV_TaskCreationModal.tsx",
+      "type": "text",
+      "size": 15228,
+      "dependencies": false
+    }
+  ]
+}

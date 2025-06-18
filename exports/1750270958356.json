@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270958356,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_LoadingSpinner",
+      "version": "1750270335274"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/GV_LoadingSpinner.tsx",
+      "type": "text",
+      "size": 2198,
+      "dependencies": false
+    }
+  ]
+}

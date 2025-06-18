@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270860999,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_UserSettings",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/UV_UserSettings.tsx",
+      "type": "text",
+      "size": 19961,
+      "dependencies": false
+    }
+  ]
+}

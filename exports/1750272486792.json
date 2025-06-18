@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750272486792,
+  "operation": {
+    "id": "backend:specifications:openapi"
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/backend/openapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

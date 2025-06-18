@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270994941,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_ErrorBanner",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/GV_ErrorBanner.tsx",
+      "type": "text",
+      "size": 2720,
+      "dependencies": false
+    }
+  ]
+}

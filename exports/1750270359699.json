@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270359699,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_UnauthenticatedLanding",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/UV_UnauthenticatedLanding.tsx",
+      "type": "text",
+      "size": 1728,
+      "dependencies": false
+    }
+  ]
+}

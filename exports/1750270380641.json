@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270380641,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "1750270380235"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 7091,
+      "dependencies": false
+    }
+  ]
+}

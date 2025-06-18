@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750273621083,
+  "operation": {
+    "id": "webapp:react:store",
+    "refs": {
+      "id": "redux",
+      "version": "1750273549066"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/store/main.tsx",
+      "type": "text",
+      "size": 13440,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270981787,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_GlobalModalWrapper",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/GV_GlobalModalWrapper.tsx",
+      "type": "text",
+      "size": 12191,
+      "dependencies": false
+    }
+  ]
+}

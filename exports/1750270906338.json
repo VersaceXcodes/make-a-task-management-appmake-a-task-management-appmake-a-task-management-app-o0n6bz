@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750270906338,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_TopNavigation",
+      "version": "latest"
+    }
+  },
+  "projectId": "make-a-task-management-appmake-a-task-management-appmake-a-task-management-app",
+  "files": [
+    {
+      "path": "../../apps/make-a-task-management-appmake-a-task-management-appmake-a-task-management-app/vitereact/src/components/views/GV_TopNavigation.tsx",
+      "type": "text",
+      "size": 13577,
+      "dependencies": false
+    }
+  ]
+}
